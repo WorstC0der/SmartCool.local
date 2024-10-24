@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'https://smartcool.local/');
 define('DIR_APPLICATION', 'C:/OSPanel/home/SmartCool.local/admin/');
 define('DIR_SYSTEM', 'C:/OSPanel/home/SmartCool.local/system/');
 define('DIR_IMAGE', 'C:/OSPanel/home/SmartCool.local/image/');
-define('DIR_STORAGE', 'C:/OSPanel/home/SmartCoolStorage/');
+define('DIR_STORAGE', 'C:/OSPanel/home/SmartCool.local/storage/');
 define('DIR_CATALOG', 'C:/OSPanel/home/SmartCool.local/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
